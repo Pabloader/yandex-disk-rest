@@ -1,0 +1,23 @@
+{
+  "name": "yandex-disk-rest",
+  "version": "0.0.1",
+  "description": "Yandex.Disk REST API Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pabloader/yandex-disk-rest.git"
+  },
+  "keywords": [
+    "yandex.disk",
+    "rest"
+  ],
+  "author": "Pabloader",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pabloader/yandex-disk-rest/issues"
+  },
+  "homepage": "https://github.com/Pabloader/yandex-disk-rest#readme"
+}
